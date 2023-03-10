@@ -9,10 +9,12 @@ function subtract(a, b) {
 
 function multiply(a, b) {
   // code goes here
+  retun a*b;
 }
 
 function divide(a, b) {
   // code goes here
+  return a/b;
 }
 
 module.exports.add = add;
