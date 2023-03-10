@@ -1,0 +1,44 @@
+{
+  "tests": [
+    {
+      "name": "Add",
+      "setup": "npm install",
+      "run": "npm run test:add",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Subtract",
+      "setup": "npm install",
+      "run": "npm run test:subtract",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Divide",
+      "setup": "npm install",
+      "run": "npm run test:divide",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Multiply",
+      "setup": "npm install",
+      "run": "npm run test:multiply",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    }
+  ]
+}
